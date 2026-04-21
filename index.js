@@ -19,4 +19,4 @@ console.log(codeA);
 let codeB = `${code1}-${code2}-${code3}`;
 console.log(codeB);
 
-console.log(message, codeA);
+console.log(message, codeA, codeB);
